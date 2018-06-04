@@ -36,4 +36,12 @@
             <text>快速增加 CGI</text>
         </navigator>
     </view>
+
+    
+    <!-- 表单测试 -->
+    <view class="uploader">
+      <navigator url="../testForm/testForm" open-type="navigate" class="uploader-text">
+        <text>表单测试</text>
+      </navigator>
+    </view>
 </view>
