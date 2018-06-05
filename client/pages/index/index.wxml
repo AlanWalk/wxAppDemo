@@ -1,5 +1,8 @@
 <!--index.wxml-->
 <view class="container">
+
+    <button open-type="getUserInfo" bindtap="login">授权用户信息</button>
+
     <!-- 用户登录测试 -->
     <view class="userinfo" bindtap="login">
         <image
